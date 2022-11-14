@@ -1,0 +1,2 @@
+python CVProject.py --image ./size_of_objects_reference.png --width 0.955
+python CVProject.py --image ./Part_1.jpg --width 0.955

@@ -1,0 +1,15 @@
+Be specific
+contrast historgram should be expanded. Try Linear Stretch
+
+Q2 Gradient ... do normalization (too bright) need fair comparison.
+Q3 Edge maps ... for difference, need two gradient maps and compare
+.
+
+Normalize result first (take the difference of two pizels), gradient map is saturated. Change logic kernal.
+Q4 image result not correct
+
+Q5 result is not correct (saturated), try averaging. Difference it already more than 255.
+
+0-255
+
+Publications in Professor's site. Research projects. Students.
